@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+E:\code\ConsoleApplication1\ConsoleApplication1.cpp(23,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID (__stdcall *)(LPVOID,SIZE_T,DWORD,DWORD)”
+  ConsoleApplication1.vcxproj -> E:\code\ConsoleApplication1\Debug\ConsoleApplication1.exe

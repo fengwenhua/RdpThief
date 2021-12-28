@@ -1,0 +1,13 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.29.30040.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: Dll1.asm
+  pch.cpp
+  dllmain.cpp
+    正在创建库 E:\code\ConsoleApplication1\x64\Release\Dll1\x64\Release\Dll1.lib 和对象 E:\code\ConsoleApplication1\x64\Release\Dll1\x64\Release\Dll1.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll1.vcxproj -> E:\code\ConsoleApplication1\x64\Release\Dll1\x64\Release\Dll1.dll

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+Source.def : error LNK2001: 无法解析的外部符号 Hijackmsg
+E:\code\ConsoleApplication1\x64\Release\Dll1\x64\Debug\Dll1.lib : fatal error LNK1120: 1 个无法解析的外部命令
