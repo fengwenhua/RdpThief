@@ -16,3 +16,7 @@
 * RdpThief_x64_ansi.tmp：ansi编码，解决 cs 插件方框问题。
 * RdpThief_x64_unicode.tmp：unicode编码。
 * RdpThief_x64_mix.tmp：两种编码都有，防止提取出来的信息不全。
+
+mix 版本的效果如下：
+
+![image](https://user-images.githubusercontent.com/26518808/147683953-c4df1fa2-80e6-4c3c-be47-86b2092881bc.png)
